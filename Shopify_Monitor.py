@@ -20,6 +20,7 @@ shopify = None
 
 MONGODB_URI = os.environ['MONGODB_URI']
 
+
 HEADERS = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'}
 WEBSITES = ['www.12amrun.com','www.18montrose.com','www.a-ma-maniere.com','www.abovethecloudsstore.com','www.addictmiami.com',
                 'www.apbstore.com','www.bbbranded.com','www.bbcicecream.com','www.blendsus.com','www.blkmkt.us',
